@@ -1,0 +1,13 @@
+name: Whisper
+main: com.crashhascrashed.Whisper.Main
+version: 1.0
+authors:
+  - CyberDrain
+description: Send private messages to other players
+commands:
+  whisper:
+    description: whisper to a player
+    aliases: [w, m, message, msg, tell]
+  reply:
+    description: replied to the latest whisper
+    aliases: [r]
